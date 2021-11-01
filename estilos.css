@@ -1,0 +1,104 @@
+#miBody {
+background-image:url("Fondo.jpg");
+}
+
+#titulo{
+    font: bold 40px Tahoma, sans-serif;
+    font-style: oblique;
+    color: #FFFFFF;
+}
+
+#btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7,#btn8,#btn9,#btn10,#btn11,#btn12,#btn13,#btn14,#btn15,#btn16,#btn17,#btn18,#btn19,#btn20,#btn21,#btn22{
+    
+    padding: 5px;
+    font-size: 12px;
+    font-style: oblique;
+    font-weight: 900;
+    color: #072bfa;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid #efeff0;
+}
+
+#imagenmintic{
+    align-content: center;
+    padding-top: 4px;
+    padding: 10px 35%;
+}
+
+#miSeccion{
+    align-items: center;
+}
+
+#cabeceralogo {
+    width: 96%;
+    height: 100px;
+    padding: 0% 2%;
+    }
+    #cabeceralogo > div {
+    width: 960px;
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 4px;
+    }
+    #cabeceralogo h1 {
+    font: bold 40px Tahoma, sans-serif;
+    color: #FFFFFF;
+    }
+#menuprincipal {
+width: 96%;
+height: 50px;
+padding: 0% 5%;
+align-items: center;
+background-color: #000875;
+align-self: center;
+}
+#menuprincipal > div {
+width: 960px;
+margin: 0px auto;
+}
+
+
+
+
+#menuprincipal li {
+    display: inline-block;
+    height: 35px;
+    padding: 15px 10px 0px 10px;
+    margin-right: 5px;
+    }
+    #menuprincipal li:hover {
+    background-color: #9980f5;
+    }
+    #menuprincipal a {
+    font: bold 18px Arial, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    }
+    #main {
+        width: 96%;
+        padding: 2%;
+        background-image: url("Fondo.jpg");
+        }
+        main > div {
+        width: 960px;
+        margin: 0px auto;
+        }
+
+        #titulos{
+            color: #ffffff;
+        }
+
+
+#pielogo {
+    width: 96%;
+    padding: 2%;
+    background-color: #000875;
+    }
+#pielogo > h3 {
+    width: 960px;
+    margin: 0px auto;
+    font: bold 20px Tahoma, sans-serif;
+    text-align: center;
+    color: #FFFFFF;    
+    }
